@@ -59,7 +59,8 @@ In our above example suppose operating frequency is 9GHZ λ0=3.33CM.where c is v
 <img width="638" height="177" alt="image" src="https://github.com/user-attachments/assets/0e3f554a-c54b-42a4-bc48-1c3b3dd5f5fc" />
 
 **TABULATION:** 
-<img width="638" height="177" alt="508522191-0e3f554a-c54b-42a4-bc48-1c3b3dd5f5fc" src="https://github.com/user-attachments/assets/15094f54-4961-46b8-8628-20ab320ae906" />
+
+<img width="800" height="558" alt="515293963-b3990c29-5975-4d1c-a952-7a0dd88a7fe9" src="https://github.com/user-attachments/assets/6e3a2146-4bd4-4c51-90b1-92b19696fce0" />
 
 
 **RESULT:**
